@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CRM.master.cs" Inherits="AllTechFinal.CRM" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+    <meta charset="utf-8" />
+    <asp:PlaceHolder ID="PlaceHolder1" runat="server">     
+    <%: Scripts.Render("~/bundles/bootstrap.js") %>
+    </asp:PlaceHolder>  
+    <webopt:BundleReference ID="BundleReference1" runat="server" Path="~/Content/css" /> 
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <title> CRM</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <div class="container">
+        <form id="form1" runat="server">
+      
+                <nav class="navbar navbar-static-top">
+                    <div class="navbar-inner">
+                        <div class="container">
+                          <a class="brand" href="#">
+                          <img src="/Images/ati_logo5.png" /></a>
+                          <ul class="nav">
+                             <li> <a href="Cadastrar.aspx">Cadastrar</a></li>
+                             <li><a href="Custos.aspx">Custos</a></li>
+                            <li><a href="Aprovados.aspx">Ordem de Serviço</a></li>
+                         </ul>
+                     </div>
+                </div>
+             </nav>
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                </asp:ContentPlaceHolder>
+           
+                    <footer class="modal-footer">
+
+
+ 
+            &nbsp;&nbsp;&nbsp;
+ 
+            <asp:Button ID="Button1" runat="server" Text="Desconectar-se?" OnClick="Button1_Click" />
+           
+        </footer>
+        </form>
+    </div>
+</body>
+
+</html>

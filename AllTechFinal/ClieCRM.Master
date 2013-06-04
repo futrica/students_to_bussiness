@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ClieCRM.master.cs" Inherits="AllTechFinal.ClieCRM" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+    <meta charset="utf-8" />
+    <asp:PlaceHolder ID="PlaceHolder1" runat="server">     
+    <%: Scripts.Render("~/bundles/bootstrap.js") %>
+    </asp:PlaceHolder>  
+    <webopt:BundleReference ID="BundleReference1" runat="server" Path="~/Content/css" /> 
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <title> CRM</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+
+    <div class="container">           
+         <form id="form2" runat="server">
+      
+                <nav class="navbar navbar-static-top">
+                    <div class="navbar-inner">
+                        <div class="container">
+                          <a class="brand" href="#">
+                          <img src="/Images/ati_logo5.png" /></a>
+                          <ul class="nav">
+                             <li> <a href="AddOrcamento.aspx">Adicionar Orçamentos</a></li>
+                             <li><a href="ConsultarOrcamento.aspx">Consultar Orçamentos</a></li>
+                             <li><a href="AprovarOrcamento.aspx">Aprovar Orçamento</a></li>
+                         </ul>
+                     </div>
+                </div>
+             </nav>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+
+
+ 
+
+                <div class="row">
+            <p></p>
+                   </div>
+        <footer class="modal-footer">
+
+
+ 
+            &nbsp;&nbsp;&nbsp;
+ 
+            <asp:Button ID="Button1" runat="server" Text="Desconectar-se?" OnClick="Button1_Click" />
+           
+        </footer>
+
+
+
+            <asp:ContentPlaceHolder ID="ScriptsSection" runat="server" />
+
+                                 <%: Scripts.Render("~/bundles/jquery") %>
+        <script src="/Scripts/jquery-1.7.1.js"></script>
+        <script src="/Scripts/bootstrap.min.js"></script>                   
+        <%: Scripts.Render("/Scripts/bootstrap.min.js") %>
+          </form>
+    </div>
+</body>
+</html>

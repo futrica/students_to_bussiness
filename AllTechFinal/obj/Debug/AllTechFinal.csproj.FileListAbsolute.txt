@@ -1,0 +1,60 @@
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\AllTechFinal.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\AllTechFinal.pdb
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\Antlr3.Runtime.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.Core.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\EntityFramework.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\System.Web.Optimization.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\System.Web.Providers.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\WebGrease.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\EntityFramework.xml
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.Core.xml
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\obj\Debug\AllTechFinal.dll
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\obj\Debug\AllTechFinal.pdb
+C:\Users\futrica\Documents\Visual Studio 2012\Projects\AllTechFinal\AllTechFinal\obj\Debug\AllTechFinal.csprojResolveAssemblyReference.cache
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\AllTechFinal.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\AllTechFinal.pdb
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\Antlr3.Runtime.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.Core.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\EntityFramework.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\System.Web.Optimization.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\System.Web.Providers.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\WebGrease.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\EntityFramework.xml
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.Core.xml
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\obj\Debug\AllTechFinal.csprojResolveAssemblyReference.cache
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\obj\Debug\AllTechFinal.dll
+C:\Users\alunogua\Desktop\AllTechFinal\AllTechFinal\obj\Debug\AllTechFinal.pdb

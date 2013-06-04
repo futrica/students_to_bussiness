@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="AllTechFinal.SiteMaster" %>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head id="Head1" runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - AllTech</title>
+    <asp:PlaceHolder ID="PlaceHolder1" runat="server">     
+          <%: Scripts.Render("~/bundles/bootstrap.js") %>
+    </asp:PlaceHolder>  
+    <webopt:BundleReference ID="BundleReference1" runat="server" Path="~/Content/css" /> 
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+
+<body>
+<div class="container">
+        <nav class="navbar navbar-static-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a class="brand" href="#">
+                        <img src="/Images/ati_logo5.png" /></a>
+                    <h3>CRM Versão 1.0 </h3>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+            <asp:ContentPlaceHolder ID="FeaturedContent" runat="server" />
+            <section class="content-wrapper main-content clear-fix">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+            </section>
+
+  
+        <footer class="modal-footer">
+            Rua XYZ, 00 - Bairro ASDF - Guaratinguetá - SP - Brasil
+    <p>
+        Tel. / Fax: 00 + (00) 0000-0000
+    </p>
+            <p>
+                @ 2013 AllTech 
+            </p>
+        </footer>
+        <%: Scripts.Render("~/bundles/jquery") %>
+        <asp:ContentPlaceHolder ID="ScriptsSection" runat="server" />
+</div>
+            <script src="http://code.jquery.com/jquery.js"></script>
+        <script src="/Scripts/bootstrap.min.js"></script>
+
+
+</body>
+</html>
